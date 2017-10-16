@@ -198,7 +198,7 @@ To do so, attach the following notices to the program. It is safest to attach th
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 Also add information on how to contact you by electronic and paper mail.
 
-If the program does terminal interaction, make it output a short notice like this when it starts in an interactive mode:
+If the program does terminal interaction, make it output a short notice like this when it starts in an interactive
 
     <program>  Copyright (C) <year>  <name of author>
     This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
